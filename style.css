@@ -1,0 +1,59 @@
+.under_line {
+  text-decoration: underline;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  background-color: aqua;
+  padding: 20px 32px;
+}
+.header img {
+  width: 100px;
+}
+.header .mobile_menu {
+  margin-left: auto;
+}
+.notification {
+  display: flex;
+  background-color: #1264a3;
+  align-items: center;
+}
+.notification_text {
+  flex: 1;
+  background-color: brown;
+  color: white;
+  padding: 16px 12px 32px;
+}
+.notification_button {
+  width: 60px;
+  background-color: white;
+}
+.hero {
+  height: 80px;
+  background-color: bisque;
+}
+.feature {
+  height: 80px;
+  background-color: gainsboro;
+}
+.case {
+  height: 80px;
+  background-color: yellowgreen;
+}
+.demo {
+  height: 80px;
+  background-color: khaki;
+}
+.appeal {
+  height: 80px;
+  background-color: mediumturquoise;
+}
+.contact {
+  height: 80px;
+  background-color: sandybrown;
+}
+.footer {
+  height: 80px;
+  background-color: snow;
+}
