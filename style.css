@@ -9,7 +9,7 @@
   padding: 20px 32px;
 }
 .header img {
-  width: 100px;
+  height: 25px;
 }
 .header .mobile_menu {
   margin-left: auto;
@@ -25,14 +25,46 @@
   color: white;
   padding: 16px 12px 32px;
 }
+
 .notification_button {
   width: 60px;
   background-color: white;
 }
 .hero {
-  height: 80px;
   background-color: bisque;
+  padding: 16px 16px 32px;
 }
+
+.hero_text {
+  background-color: skyblue;
+}
+.hero_text h1 {
+  margin-top: 0;
+}
+
+.hero_text p {
+  margin-top: 16px;
+}
+
+.hero_text_more {
+  display: block;
+  padding: 16px 4px;
+  border-radius: 4px;
+  text-align: center;
+  background-color: #611f69;
+  color: #fff;
+}
+.hero_text_new_workspace {
+  font-size: 0.9rem;
+}
+.hero_text_new_workspace a {
+  color: blue;
+}
+.hero_video {
+  background-color: indianred;
+  margin-top: 16px;
+}
+
 .feature {
   height: 80px;
   background-color: gainsboro;
